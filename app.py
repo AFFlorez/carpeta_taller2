@@ -32,6 +32,7 @@ def load_data():
     
 
 # Cargar datos
+# ESta es una función que se modificó py que está funcionando
 data = load_data()
 
 # Graficar serie
