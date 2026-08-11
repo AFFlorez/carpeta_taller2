@@ -28,6 +28,9 @@ def load_data():
     # Se setea la columna time como el índice
     df_datos_energia = df_datos_energia.set_index("time")
     # Retorna el dataframe
+
+    # Desde esta rama se hace aparte para hacer un cambio
+    # y generar el pull request
     return df_datos_energia
     
 
