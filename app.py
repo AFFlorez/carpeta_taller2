@@ -6,8 +6,7 @@ import plotly.graph_objs as go
 import numpy as np
 import pandas as pd
 import datetime as dt
-
-
+#Oscar_Mor
 
 app = dash.Dash(
     __name__,
